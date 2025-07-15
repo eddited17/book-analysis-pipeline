@@ -1,5 +1,7 @@
 # Book Analysis Pipeline
 
+## THIS IS COMPLETELY VIBE CODED AND YOU USE THIS ON YOUR OWN RISK. I AM NOT RESPONSIBLE FOR ANY UNINTENDED CONSEQUENCES RESULTING FROM USING THIS CODE
+
 A sophisticated multi-stage AI-powered pipeline for analyzing and processing business books, specifically designed to extract actionable insights, frameworks, and implementation strategies from PDF documents.
 
 ## Overview
