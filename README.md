@@ -217,17 +217,6 @@ The pipeline strategically uses different AI models for optimal cost and quality
 3. **Monitor API usage** as the pipeline makes many calls
 4. **Start with smaller sections** to test the pipeline
 
-## Cost Considerations
-
-This pipeline makes extensive use of AI APIs. Estimated costs for a 200-page business book:
-- **Phase 1:** $15-25 (detailed analysis)
-- **Phases 2-4:** $3-5 (semantic processing)
-- **Phase 5:** $5-10 (consolidation)
-- **Phase 6:** $10-20 (O3 enhancement)
-- **Phase 7:** $2-5 (fact-checking with Gemini 2.5 Flash-Lite)
-
-**Total estimated cost:** $37-65 per book
-
 ## Customization
 
 The pipeline can be customized by modifying:
